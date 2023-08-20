@@ -6,20 +6,20 @@
 
 Dive straight into the world of interactive multi-page websites by undertaking our flagship project: creating a clone of AMAZON.COM. Through this project, we will gain hands-on experience in various aspects of web development.
 
-### Key Features:
+###Key Features:
 - **Add to Cart:** Implement the functionality to add products to the cart, enhancing user interaction and shopping experience.
 - **Create Order:** Learn how to facilitate order creation, a fundamental feature of any e-commerce platform.
 - **Track Order:** Implement order tracking, providing users with real-time insights into their purchases.
 
-## Smaller Projects Along the Way
+##Smaller Projects Along the Way
 As you progress through the course, you'll also work on smaller yet engaging projects that solidify your understanding of JavaScript concepts:
 
 - **Rock Paper Scissors Game:** Develop a classic game where players can challenge the computer in a game of Rock Paper Scissors.
 - **Todo List:** Create a task management application to organize your daily activities and tasks.
 - **Calculator:** Build a functional calculator that can perform basic arithmetic operations.
 
-## Course Description
-### Part 1: JavaScript Fundamentals
+##Course Description
+###Part 1: JavaScript Fundamentals
 Lay the foundation of your JavaScript journey with this comprehensive introduction:
 
 JavaScript Basics: Get acquainted with the language's syntax, variables, and data types.
