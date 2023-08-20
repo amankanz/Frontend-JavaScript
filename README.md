@@ -24,7 +24,7 @@ As you progress through the course, you'll also work on smaller yet engaging pro
 
 ### Part 1: JavaScript Fundamentals
 
-Lay the foundation of your JavaScript journey with this comprehensive introduction:
+Lay the foundation of our JavaScript journey with this comprehensive introduction:
 
 - **JavaScript Basics:** Get acquainted with the language's syntax, variables, and data types.
 - **Number and Math:** Dive into mathematical operations and computations using JavaScript.
@@ -34,22 +34,22 @@ Lay the foundation of your JavaScript journey with this comprehensive introducti
 - **Functions:** Master the art of creating reusable blocks of code for increased efficiency.
 - **Objects and DOM:** Discover objects and the Document Object Model for dynamic web interaction.
 - **Arrays and Loops:** Harness the power of arrays and loops for efficient data manipulation.
-  -- **HTML, CSS, and JavaScript Integration:** Combine the trio of web technologies to create seamless user experiences.
+- **HTML, CSS, and JavaScript Integration:** Combine the trio of web technologies to create seamless user experiences.
 
 ### Part 2: Skills for Bigger Projects
 
-Equip yourself with advanced skills to tackle larger and more complex projects:
+Equip ourselves with advanced skills to tackle larger and more complex projects:
 
 - **Intro to Git:** Learn the fundamentals of version control with Git, a crucial skill for collaborative development.
-- **Modules and Libraries:** Explore the world of modules and leverage existing libraries to streamline your work.
-- **Automated Testing:** Ensure the reliability of your code through automated testing practices.
+- **Modules and Libraries:** Explore the world of modules and leverage existing libraries to streamline our work.
+- **Automated Testing:** Ensure the reliability of our code through automated testing practices.
 - **Object Oriented Programming (OOP):** Delve into OOP concepts to write organized and scalable code.
 - **Inheritance:** Understand inheritance and its role in creating efficient class hierarchies.
 - **Intro to Backend:** Gain a high-level overview of backend development to create more comprehensive applications.
 
 ## Course Details
 
-- The course encompasses over 200 exercises, providing ample practice to solidify your skills.
-- We value your feedback! Feel free to leave comments or suggestions to help us improve the course.
+- The course encompasses over 200 exercises, providing ample practice to solidify our skills.
+- We value your feedback! Feel free to leave comments or suggestions to help us improve our as Developers.
 
 Are you ready to embark on an exciting journey into the world of JavaScript? Let's get started!
