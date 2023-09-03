@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Client-Side JavaScript EXample</title>
+</head>
+<body>
+  <input type="text" id="enterName" placeholder="Enter your name">
+  <button id="submiteBotton">Submit</button>
+  <p id="outPutMessage"></p>
+
+
+
+
+  <!--=== SCRIPT SECTION ===-->
+  <script>
+    document.getElementById('submiteBotton').addEventListener('click', function() {
+      //Get the user name from the input field
+      var name = document.getElementById('enterName').value;
+
+      //Display a message on the page
+      document.getElementById('outPutMessage').textContent = 'Hello, ' + name + '!';
+    })
+  </script>
+</body>
+</html>

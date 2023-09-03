@@ -50,6 +50,6 @@ Equip ourselves with advanced skills to tackle larger and more complex projects:
 ## Course Details
 
 - The course encompasses over 200 exercises, providing ample practice to solidify our skills.
-- We value your feedback! Feel free to leave comments or suggestions to help us improve our as Developers.
+- We value your feedback! Feel free to leave comments or suggestions to help us improve our skills as Developers.
 
 Are you ready to embark on an exciting journey into the world of JavaScript? Let's get started!
